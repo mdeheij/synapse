@@ -1,6 +1,6 @@
 #Synapse
 
-[Screenshot](http://i.imgur.com/Eq30gcf.png)
+![Screenshot](http://i.imgur.com/Eq30gcf.png)
 
 *   Removed version number in Virgilio
 *   Changed default plugins
